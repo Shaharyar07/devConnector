@@ -1,2 +1,4 @@
-# devConnector
-MERN Stack  Social Media Application 
+# devConnector-PC first website
+MERN Stack  Social Media Application.
+
+
