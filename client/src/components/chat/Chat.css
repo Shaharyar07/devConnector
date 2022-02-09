@@ -1,0 +1,9 @@
+/* CHAT STYLES */
+
+.ql-editor p::before {
+  content: "Type your message here...";
+  color: gray;
+}
+.ql-editor p focus::-webkit-input-placeholder {
+    opacity: 0;
+}
